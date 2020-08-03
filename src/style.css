@@ -1,0 +1,64 @@
+h2,
+h3,
+h5 {
+  color: #5a6275;
+}
+
+h3,
+h5 {
+  font-weight: lighter;
+}
+
+h5 {
+  position: relative;
+  left: 55px;
+}
+
+h1 {
+  padding-top: 20px;
+}
+p {
+  margin: 30px 30px;
+  text-align: center;
+  font-size: 35px;
+}
+
+.button {
+  padding: 5px;
+}
+
+.humidity {
+  margin-top: 40px;
+}
+
+.search {
+  width: 83%;
+  margin-top: 15px;
+  padding: 5px;
+}
+
+.card {
+  margin-top: 20px;
+  padding-bottom: 15px;
+  width: 28rem;
+  border-radius: 10px;
+}
+
+.sun {
+  font-size: 30px;
+}
+.row {
+  margin-top: 15px;
+}
+.forcaste {
+  text-align: center;
+}
+.units {
+  cursor: pointer;
+  font-size: 16px;
+}
+#current-button {
+  position: relative;
+  margin-top: 7px;
+  left: 340px;
+}
